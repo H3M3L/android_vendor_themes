@@ -96,4 +96,6 @@ PRODUCT_PACKAGES += \
     QStilePokesign \
     QStileWavey \
     QStileWavey \
-    QStileSquaremedo
+    QStileSquaremedo \
+    QStileSquaremedo \
+    QStileInkDrop
