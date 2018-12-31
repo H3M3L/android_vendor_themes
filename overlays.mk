@@ -115,3 +115,7 @@ PRODUCT_PACKAGES += \
     QStileDiamond \
     QStileIconAccent
 
+# Cutout Overlay
+PRODUCT_PACKAGES += \
+    HideCutout \
+    StatusBarStock
