@@ -89,7 +89,6 @@ PRODUCT_PACKAGES += \
     QStileDefault \
     QStileDualToneCircle \
     QStileSquircleTrim \
-    QStileSquircleTrim \
     QStileAttemptMountain \
     QStileDottedCircle \
     QStileNinja \
@@ -97,4 +96,5 @@ PRODUCT_PACKAGES += \
     QStileWavey \
     QStileSquaremedo \
     QStileInkDrop \
-    QStileCookie
+    QStileCookie \
+    QStilesCircleOutline
