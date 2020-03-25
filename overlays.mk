@@ -62,7 +62,12 @@ PRODUCT_PACKAGES += \
     NavbarTecnoCamonOverlay \
     GesturalNavigationOverlayLong \
     GesturalNavigationOverlayMedium \
-    GesturalNavigationOverlayHidden
+    GesturalNavigationOverlayHidden \
+    NavbarAndroidOverlay \
+    NavbarMotoOverlay \
+    NavbarNexusOverlay \
+    NavbarOldOverlay \
+    NavbarSammyOverlay
 
 # Switch themes
 PRODUCT_PACKAGES += \
