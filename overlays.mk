@@ -110,5 +110,6 @@ PRODUCT_PACKAGES += \
     QStileGear \
     QStileStar \
     QStileHexagon \
-    QStileDiamond
+    QStileDiamond \
+    QStileIconAccent
 
