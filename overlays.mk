@@ -72,6 +72,7 @@ PRODUCT_PACKAGES += \
     Contained \
     Retro \
     Narrow \
+    SwitchOOS \
     Stockish
 
 # G-Visual Mods
