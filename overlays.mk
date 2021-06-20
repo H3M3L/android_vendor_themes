@@ -72,6 +72,7 @@ PRODUCT_PACKAGES += \
     Contained \
     Retro \
     Narrow \
+    SwitchAndroid12 \
     SwitchOOS \
     Stockish
 
