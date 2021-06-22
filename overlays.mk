@@ -25,31 +25,6 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeVesselOverlay
 
-
-# Qs tile style overlays
-PRODUCT_PACKAGES += \
-    QSTileCircleTrim \
-    QSTileDualToneCircle \
-    QSTileStar \
-    QSTileSquare \
-    QSTileGear \
-    QSTileBadge \
-    QSTileBadgetwo \
-    QSTileDiamond \
-    QSTileSquircleTrim \
-    QSTileCookie \
-    QSTileCircleOutline \
-    QSTileInkdrop \
-    QSTileWavey \
-    QSTileAttemptMountain \
-    QSTileDottedCircle \
-    QSTileNinja \
-    QSTileTriangles \
-    QSTileNeonLight \
-    QStileCosmos \
-    QStileDividedCircle \
-    QStileOxygen
-
 # QS header styles
 PRODUCT_PACKAGES += \
     QSHeaderGrey \
