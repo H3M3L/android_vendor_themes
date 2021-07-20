@@ -9,7 +9,7 @@ endif
 
 ifeq ($(HAS_FOD),true)
 DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/fod-icons
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/fod-icons
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/themes/overlay/fod-icons
 endif
 
 # Overlays
