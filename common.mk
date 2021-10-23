@@ -18,11 +18,6 @@ include vendor/themes/overlays.mk
 # Prebuilts app
 include vendor/themes/prebuilts.mk
 
-# Gboard
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.com.google.ime.theme_id=5 \
-    ro.com.google.ime.kb_pad_port_b=1
-
 # Sounds
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=The_big_adventure.ogg \
