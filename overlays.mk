@@ -35,7 +35,8 @@ PRODUCT_PACKAGES += \
     NavbarMotoOverlay \
     NavbarNexusOverlay \
     NavbarOldOverlay \
-    NavbarSammyOverlay
+    NavbarSammyOverlay \
+    NavigationBarModeGesturalOverlayFS
 
 # Switch themes
 PRODUCT_PACKAGES += \
