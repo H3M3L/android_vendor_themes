@@ -14,12 +14,3 @@ endif
 
 # Overlays
 include vendor/themes/overlays.mk
-
-# Prebuilts app
-include vendor/themes/prebuilts.mk
-
-# Sounds
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=The_big_adventure.ogg \
-    ro.config.notification_sound=Popcorn.ogg \
-    ro.config.alarm_alert=Bright_morning.ogg

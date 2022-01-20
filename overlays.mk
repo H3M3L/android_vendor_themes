@@ -25,39 +25,12 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeVesselOverlay
 
-# QS header styles
-PRODUCT_PACKAGES += \
-    QSHeaderGrey \
-    QSHeaderLightGrey \
-    QSHeaderAccent \
-    QSHeaderTransparent
-
-# Themes
-PRODUCT_PACKAGES += \
-    PitchBlackSystemOverlay \
-    PitchBlackSystemUIOverlay \
-    SolarizedDarkSystemOverlay \
-    SolarizedDarkSystemUIOverlay \
-    BakedGreenSystemOverlay \
-    BakedGreenSystemUIOverlay \
-    ChocoXSystemOverlay \
-    ChocoXSystemUIOverlay \
-    DarkGreySystemOverlay \
-    DarkGreySystemUIOverlay \
-    MaterialOceanSystemOverlay \
-    MaterialOceanSystemUIOverlay \
-    CorvusClearSystemOverlay \
-    CorvusClearSystemUIOverlay
-
 # Navbar
 PRODUCT_PACKAGES += \
     NavbarAsusOverlay \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
     NavbarTecnoCamonOverlay \
-    GesturalNavigationOverlayLong \
-    GesturalNavigationOverlayMedium \
-    GesturalNavigationOverlayHidden \
     NavbarAndroidOverlay \
     NavbarMotoOverlay \
     NavbarNexusOverlay \
@@ -114,8 +87,3 @@ PRODUCT_PACKAGES += \
     QStileHexagon \
     QStileDiamond \
     QStileIconAccent
-
-# Cutout Overlay
-PRODUCT_PACKAGES += \
-    HideCutout \
-    StatusBarStock
