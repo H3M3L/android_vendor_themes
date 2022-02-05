@@ -1,15 +1,11 @@
-# Include package overlays
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/themes/overlay/common
-DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
-
 ifeq ($(FOD_ANIMATIONS),true)
 PRODUCT_PACKAGES += \
     FodAnimationResources
 endif
 
 ifeq ($(HAS_FOD),true)
-DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/fod-icons
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/themes/overlay/fod-icons
+DEVICE_PACKAGE_OVERLAYS += vendor/themes/fod-overlays/fod-icons
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/themes/fod-overlays/fod-icons
 endif
 
 # Overlays
