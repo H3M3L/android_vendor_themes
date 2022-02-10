@@ -126,3 +126,39 @@ PRODUCT_PACKAGES += \
     QStileHexagon \
     QStileDiamond \
     QStileIconAccent
+
+# Fonts
+PRODUCT_PACKAGES += \
+    FontAccuratistOverlay \
+    FontAclonicaOverlay \
+    FontAmaranteOverlay \
+    FontBariolOverlay \
+    FontCagliostroOverlay \
+    FontCoconOverlay \
+    FontComfortaaOverlay \
+    FontComicSansOverlay \
+    FontCoolstoryOverlay \
+    FontExotwoOverlay \
+    FontFifa2018Overlay \
+    FontGoogleSansOverlay \
+    FontGrandHotelOverlay \
+    FontHarmonySansOverlay \
+    FontLatoOverlay \
+    FontLGSmartGothicOverlay \
+    FontLinotteOverlay \
+    FontNokiaPureOverlay \
+    FontNunitoOverlay \
+    FontOneplusSansOverlay \
+    FontOneplusSlateOverlay \
+    FontOswaldOverlay \
+    FontQuandoOverlay \
+    FontRedressedOverlay \
+    FontReemKufiOverlay \
+    FontRobotoCondensedOverlay \
+    FontRosemaryOverlay \
+    FontRubikOverlay \
+    FontSamsungOneOverlay \
+    FontSonySketchOverlay \
+    FontStoropiaOverlay \
+    FontSurferOverlay \
+    FontUbuntuOverlay
