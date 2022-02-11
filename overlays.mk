@@ -65,67 +65,67 @@ PRODUCT_PACKAGES += \
 
 # Navbar
 PRODUCT_PACKAGES += \
-    NavbarAsusOverlay \
-    NavbarOnePlusOverlay \
-    NavbarOneUiOverlay \
-    NavbarTecnoCamonOverlay \
-    NavbarAndroidOverlay \
-    NavbarMotoOverlay \
-    NavbarNexusOverlay \
-    NavbarOldOverlay \
-    NavbarSammyOverlay \
     NavigationBarModeGesturalOverlayFS
+#     NavbarAsusOverlay \
+#     NavbarOnePlusOverlay \
+#     NavbarOneUiOverlay \
+#     NavbarTecnoCamonOverlay \
+#     NavbarAndroidOverlay \
+#     NavbarMotoOverlay \
+#     NavbarNexusOverlay \
+#     NavbarOldOverlay \
+#     NavbarSammyOverlay \
 
 # Switch themes
-PRODUCT_PACKAGES += \
-    MD2Switch \
-    OnePlusSwitch \
-    SwitchTelegram \
-    Contained \
-    Retro \
-    Narrow \
-    SwitchAndroid12 \
-    SwitchOOS \
-    Stockish
+# PRODUCT_PACKAGES += \
+#     MD2Switch \
+#     OnePlusSwitch \
+#     SwitchTelegram \
+#     Contained \
+#     Retro \
+#     Narrow \
+#     SwitchAndroid12 \
+#     SwitchOOS \
+#     Stockish
 
 # G-Visual Mods
-PRODUCT_PACKAGES += \
-    GVM-SBH-L \
-    GVM-SBH-M \
-    GVM-SBH-XL \
-    GVM-URM-M \
-    GVM-URM-L \
-    GVM-URM-R
+# PRODUCT_PACKAGES += \
+#     GVM-SBH-L \
+#     GVM-SBH-M \
+#     GVM-SBH-XL \
+#     GVM-URM-M \
+#     GVM-URM-L \
+#     GVM-URM-R
 
 # QS Tile styles
-PRODUCT_PACKAGES += \
-    QStileCircleTrim \
-    QStileDefault \
-    QStileDualToneCircle \
-    QStileSquircleTrim \
-    QStileAttemptMountain \
-    QStileDottedCircle \
-    QStileNinja \
-    QStilePokesign \
-    QStileWavey \
-    QStileSquaremedo \
-    QStileInkDrop \
-    QStileCookie \
-    QStilesCircleOutline \
-    QSTileCosmos \
-    QSTileDividedCircle \
-    QSTileNeonLight \
-    QSTileOxygen \
-    QSTileTriangles \
-    QSTileSquircle \
-    QSTileTearDrop \
-    QStileBadge \
-    QStileBadgetwo \
-    QStileGear \
-    QStileStar \
-    QStileHexagon \
-    QStileDiamond \
-    QStileIconAccent
+# PRODUCT_PACKAGES += \
+#     QStileCircleTrim \
+#     QStileDefault \
+#     QStileDualToneCircle \
+#     QStileSquircleTrim \
+#     QStileAttemptMountain \
+#     QStileDottedCircle \
+#     QStileNinja \
+#     QStilePokesign \
+#     QStileWavey \
+#     QStileSquaremedo \
+#     QStileInkDrop \
+#     QStileCookie \
+#     QStilesCircleOutline \
+#     QSTileCosmos \
+#     QSTileDividedCircle \
+#     QSTileNeonLight \
+#     QSTileOxygen \
+#     QSTileTriangles \
+#     QSTileSquircle \
+#     QSTileTearDrop \
+#     QStileBadge \
+#     QStileBadgetwo \
+#     QStileGear \
+#     QStileStar \
+#     QStileHexagon \
+#     QStileDiamond \
+#     QStileIconAccent
 
 # Fonts
 PRODUCT_PACKAGES += \
