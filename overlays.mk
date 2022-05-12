@@ -63,7 +63,12 @@ PRODUCT_PACKAGES += \
     IconPackRoundedThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
     IconPackOutlineSettingsOverlay \
-    IconPackOutlineSystemUIOverlay
+    IconPackOutlineSystemUIOverlay \
+    IconPackPUIAndroidOverlay \
+    IconPackPUILauncherOverlay \
+    IconPackPUISettingsOverlay \
+    IconPackPUISystemUIOverlay \
+    IconPackPUIThemePickerOverlay
 
 # Signal / WiFi Icons
 PRODUCT_PACKAGES += \
