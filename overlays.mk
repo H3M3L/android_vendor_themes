@@ -103,6 +103,10 @@ PRODUCT_PACKAGES += \
 #     NavbarOldOverlay \
 #     NavbarSammyOverlay \
 
+# QS Panel
+PRODUCT_PACKAGES += \
+    QSRoundedRectangle
+
 # Switch themes
 # PRODUCT_PACKAGES += \
 #     MD2Switch \
