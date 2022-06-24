@@ -105,7 +105,8 @@ PRODUCT_PACKAGES += \
 
 # QS Panel
 PRODUCT_PACKAGES += \
-    QSRoundedRectangle
+    QSRoundedRectangle \
+    QSOutline
 
 # Switch themes
 # PRODUCT_PACKAGES += \
